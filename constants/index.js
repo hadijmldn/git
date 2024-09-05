@@ -20,8 +20,8 @@ export const exploreWorlds = [
   {
     id: 'world-4',
     imgUrl: '/bg4.jpg',
-    title: 'Email Hosting',
-    detail: 'Our email hosting services offer secure, reliable, and professional email solutions',
+    title: 'Business Email',
+    detail: 'Our Business Email services offer secure, reliable, and professional email solutions',
   },
   {
     id: 'world-5',
