@@ -19,16 +19,16 @@ const Navbar = () => (
         OrbitHost
       </h2>
 
-      <button type="button" className="flex items-center h-fit py-4 px-5 bg-[#25618B] rounded-[32px] gap-[12px] object-contain">
+      <a href="https://103.150.89.144/" className="flex items-center h-fit py-4 px-5 bg-[#25618B] rounded-[32px] gap-[12px] object-contain">
           <img
             src="/headset.svg"
             alt="headset"
-            className="w-[20px] h-[20px] object-contain"
+            className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[10px] text-white">
+          <span className="font-normal text-[16px] text-white">
             OrbitHost
           </span>
-        </button>
+          </a>
     </div>
   </motion.nav>
 );

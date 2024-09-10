@@ -19,7 +19,7 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           Join OrbitHost
         </h4>
-        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+        <a href="https://103.150.89.144/" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <img
             src="/headset.svg"
             alt="headset"
@@ -28,7 +28,7 @@ const Footer = () => (
           <span className="font-normal text-[16px] text-white">
             OrbitHost
           </span>
-        </button>
+          </a>
       </div>
 
       <div className="flex flex-col">
